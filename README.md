@@ -1,8 +1,8 @@
-| #### GitHub Actions                                                                           |
-|-----------------------------------------------------------------------------------------------|
-| - [checkout-setup-node-install](https://github.com/brianespinosa/checkout-setup-node-install) |
-| - [next-build-cache](https://github.com/brianespinosa/next-build-cache)                       |
-| - [job-root-cache](https://github.com/brianespinosa/job-root-cache)                           |
+| GitHub Actions                                                                              |
+|---------------------------------------------------------------------------------------------|
+| [checkout-setup-node-install](https://github.com/brianespinosa/checkout-setup-node-install) |
+| [next-build-cache](https://github.com/brianespinosa/next-build-cache)                       |
+| [job-root-cache](https://github.com/brianespinosa/job-root-cache)                           |
 
 <!--
 **brianespinosa/brianespinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
