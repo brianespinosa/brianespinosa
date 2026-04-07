@@ -1,9 +1,9 @@
-| <img width="250" height="24" src="github-actions.svg" alt="GitHub Actions"> | <img width="250" height="24" src="conference-talks.svg" alt="Conference Talks"> |
+| <img width="250" height="24" src="conference-talks.svg" alt="Conference Talks"> | <img width="250" height="24" src="github-actions.svg" alt="GitHub Actions"> |
 |---|---|
-| [checkout-setup-node-install](https://github.com/brianespinosa/checkout-setup-node-install) | [career](https://github.com/brianespinosa/career)                 |
-| [job-root-cache](https://github.com/brianespinosa/job-root-cache)                           | [portable-hooks](https://github.com/brianespinosa/portable-hooks) |
-| [next-build-cache](https://github.com/brianespinosa/next-build-cache)                       |                                                                   |
-| [release-action](https://github.com/brianespinosa/release-action)                           |                                                                   |
+| [career](https://github.com/brianespinosa/career)                 | [checkout-setup-node-install](https://github.com/brianespinosa/checkout-setup-node-install) |
+| [portable-hooks](https://github.com/brianespinosa/portable-hooks) | [job-root-cache](https://github.com/brianespinosa/job-root-cache)                           |
+|                                                                   | [next-build-cache](https://github.com/brianespinosa/next-build-cache)                       |
+|                                                                   | [release-action](https://github.com/brianespinosa/release-action)                           |
 
 <!--
 **brianespinosa/brianespinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
