@@ -1,4 +1,6 @@
-<div style="display: flex; gap: 2rem;">
+<table>
+<tr>
+<td>
 
 | GitHub Actions                                                                              |
 |---------------------------------------------------------------------------------------------|
@@ -7,12 +9,17 @@
 | [next-build-cache](https://github.com/brianespinosa/next-build-cache)                       |
 | [release-action](https://github.com/brianespinosa/release-action)                           |
 
+</td>
+<td>
+
 | Conference Talks                                                  |
 |-------------------------------------------------------------------|
 | [career](https://github.com/brianespinosa/career)                 |
 | [portable-hooks](https://github.com/brianespinosa/portable-hooks) |
 
-</div>
+</td>
+</tr>
+</table>
 
 <!--
 **brianespinosa/brianespinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
