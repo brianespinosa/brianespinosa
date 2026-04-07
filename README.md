@@ -1,4 +1,4 @@
-| <img width="250" height="20" src="https://raw.githubusercontent.com/brianespinosa/brianespinosa/main/heading-github-actions.svg" alt="GitHub Actions"> | <img width="250" height="20" src="https://raw.githubusercontent.com/brianespinosa/brianespinosa/main/heading-conference-talks.svg" alt="Conference Talks"> |
+| <img width="250" height="24" src="https://raw.githubusercontent.com/brianespinosa/brianespinosa/main/heading-github-actions.svg" alt="GitHub Actions"> | <img width="250" height="24" src="https://raw.githubusercontent.com/brianespinosa/brianespinosa/main/heading-conference-talks.svg" alt="Conference Talks"> |
 |---|---|
 | [checkout-setup-node-install](https://github.com/brianespinosa/checkout-setup-node-install) | [career](https://github.com/brianespinosa/career)                 |
 | [job-root-cache](https://github.com/brianespinosa/job-root-cache)                           | [portable-hooks](https://github.com/brianespinosa/portable-hooks) |
