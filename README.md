@@ -1,5 +1,5 @@
-| GitHub Actions                                                                              | Conference Talks                                                  |
-|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| GitHub Actions<br><img width="400" height="1" src="spacer.svg"> | Conference Talks<br><img width="400" height="1" src="spacer.svg"> |
+|---|---|
 | [checkout-setup-node-install](https://github.com/brianespinosa/checkout-setup-node-install) | [career](https://github.com/brianespinosa/career)                 |
 | [job-root-cache](https://github.com/brianespinosa/job-root-cache)                           | [portable-hooks](https://github.com/brianespinosa/portable-hooks) |
 | [next-build-cache](https://github.com/brianespinosa/next-build-cache)                       |                                                                   |
