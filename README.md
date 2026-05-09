@@ -29,6 +29,10 @@ A small family of composable actions I reach for on every Next.js repo. All shar
 
 - **[shippo-packing-slips](https://github.com/brianespinosa/shippo-packing-slips)** · Raspberry Pi automation running in the 3D-printing workshop. It prints packing slips and shipping labels and schedules USPS pickups via the Shippo API.
 
+### 🧰 Workflow
+
+- **[dotfiles](https://github.com/brianespinosa/dotfiles)** · Shell config, CLI tooling, and Claude Code rules. The dev environment I keep portable across machines, managed with GNU stow.
+
 ---
 
 Off the keyboard: woodworking, photography, and overlanding into the mountains or out to the beach with our cattle dogs.
